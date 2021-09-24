@@ -1,0 +1,10 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+
+.hello {
+    color: magenta;
+    background: url('./pinapple.png');
+}
